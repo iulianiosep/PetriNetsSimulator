@@ -1,0 +1,1 @@
+Here it will be added the documentation and the architecture of the application.
